@@ -1,0 +1,5 @@
+person:
+  monkey:
+    name: monkey-dev-config
+    age: 1111
+    male: false
