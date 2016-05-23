@@ -1,0 +1,5 @@
+person:
+  dragon:
+    name: dragon-dev-config
+    age: 1111
+    male: false
