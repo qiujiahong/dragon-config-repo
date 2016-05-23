@@ -1,0 +1,5 @@
+person:
+  dragon:
+    name: dragon-production-config
+    age: 2222
+    male: true
