@@ -1,6 +1,6 @@
 loc.cloud:
   config:
-    param1: abc-dev-1
-    param2: 2222 
+    param1: abc-dev
+    param2: 222 
   controller:
-    param3: xxx-dev-1
+    param3: xxx-dev
