@@ -1,6 +1,6 @@
 loc.cloud:
   config:
-    param1: abacdd ---- 中文
+    param1: 开始中文
     param2: 222 
   controller:
     param3: xxx-dev
